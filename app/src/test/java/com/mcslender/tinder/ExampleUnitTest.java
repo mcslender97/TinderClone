@@ -1,4 +1,4 @@
-package com.simcoder.tinder;
+package com.mcslender.tinder;
 
 import org.junit.Test;
 

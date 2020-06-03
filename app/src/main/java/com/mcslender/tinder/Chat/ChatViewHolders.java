@@ -1,14 +1,11 @@
-package com.simcoder.tinder.Chat;
+package com.mcslender.tinder.Chat;
 
-import android.content.Intent;
-import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.simcoder.tinder.R;
+import com.mcslender.tinder.R;
 
 /**
  * Created by manel on 10/31/2017.

@@ -1,4 +1,4 @@
-package com.simcoder.tinder;
+package com.mcslender.tinder;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -17,16 +17,16 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.lorentzos.flingswipe.SwipeFlingAdapterView;
-import com.simcoder.tinder.Cards.arrayAdapter;
-import com.simcoder.tinder.Cards.cards;
-import com.simcoder.tinder.Matches.MatchesActivity;
+import com.mcslender.tinder.Cards.arrayAdapter;
+import com.mcslender.tinder.Cards.cards;
+import com.mcslender.tinder.Matches.MatchesActivity;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private cards cards_data[];
-    private com.simcoder.tinder.Cards.arrayAdapter arrayAdapter;
+    private com.mcslender.tinder.Cards.arrayAdapter arrayAdapter;
     private int i;
 
     private FirebaseAuth mAuth;

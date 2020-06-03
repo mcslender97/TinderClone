@@ -1,4 +1,4 @@
-package com.simcoder.tinder;
+package com.mcslender.tinder;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

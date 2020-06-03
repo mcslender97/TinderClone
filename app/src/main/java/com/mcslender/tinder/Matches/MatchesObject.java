@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.mcslender.tinder.Matches;
 
 /**
  * Created by manel on 10/31/2017.

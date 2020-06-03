@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Cards;
+package com.mcslender.tinder.Cards;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.simcoder.tinder.R;
+import com.mcslender.tinder.R;
 
 import java.util.List;
 
